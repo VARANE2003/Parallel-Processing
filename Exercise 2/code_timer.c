@@ -1,6 +1,3 @@
-// Timer for the HPCSE I course
-//
-
 #include <sys/time.h>
 
 double get_wtime(void)
