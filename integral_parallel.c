@@ -10,7 +10,7 @@ inline double f(double x)
         return sin(cos(x));
 }
 
-// WolframAlpha: integral sin(cos(x)) from 0 to 1  
+// WolframAlpha: integral sin(cos(x)) from 0 to 1  ≈  0.7386429980368912... 
 
 int main(int argc, char *argv[])
 {
